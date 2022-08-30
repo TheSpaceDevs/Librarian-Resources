@@ -7,4 +7,5 @@ This repository contains various resources used by Launch Library 2 librarians.
 <!-- Start TOC (do not remove me) -->
 
 * [Checklists](checklists.md)
+* [Launch updates](launch_updates.md)
 * [Sources](sources.md)
