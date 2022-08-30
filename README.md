@@ -1,4 +1,4 @@
-# Librarian Resources
+# LL2 Librarian Resources
 
 This repository contains various resources used by Launch Library 2 librarians.
 
