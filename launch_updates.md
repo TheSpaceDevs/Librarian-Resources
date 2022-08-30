@@ -174,7 +174,7 @@ centaur cutoff 3
 cubesats separation
 ```
 
-### SHENZHO
+### SHENZHOU
 ```
 webcast live
 liftoff
