@@ -9,3 +9,7 @@ This repository contains various resources used by Launch Library 2 librarians.
 * [Checklists](checklists.md)
 * [Launch updates](launch_updates.md)
 * [Sources](sources.md)
+
+## LL2 Status flowchart
+
+![LL2 Status Flowchart](LL2_status_flowchart.png)
