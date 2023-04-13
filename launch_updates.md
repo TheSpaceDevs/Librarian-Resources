@@ -225,3 +225,15 @@ fairing sep
 s3 sep
 payload sep in 18 hours
 ```
+
+### ARIANE 5
+webcast live
+coverage has started
+liftoff
+boosters sep
+fairing sep
+s1 sep
+s2 cutoff
+deployment
+
+
